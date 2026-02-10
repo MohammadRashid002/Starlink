@@ -8,11 +8,6 @@ Dies ist ein kleines Projekt namens **Starlink**, das nur aus Bildern besteht un
   1. Login-Bildschirm  
   2. Sign-Up-Bildschirm  
 
-## 🚀 Verwendung
-
-1. Klone oder lade das Repository herunter.  
-2. Öffne die HTML-Datei im Browser, um die Bilder anzusehen.  
-
 
 ## 🛠️ Technologien
 
